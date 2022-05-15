@@ -2,13 +2,8 @@
 ## What is it?
 This is my first physics project that I am doing with the help of the Department of General Physics at MIPT. Schemes and description you can find in relevant directories.
 
-<<<<<<< .mine
 ## TODO list (4 week) -> 0/4
 
-=======
-
-
->>>>>>> .theirs
 - [ ] Assemble the setup
 - [ ] Check the main parts for leaks
 - [ ] Check the work with oil at height
