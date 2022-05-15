@@ -2,14 +2,19 @@
 ## What is it?
 This is my first physics project that I am doing with the help of the Department of General Physics at MIPT. Schemes and description you can find in relevant directories.
 
-## TODO 
+## TODO list (4 week) -> 0/4
 
-## TODO list (3 week) -> 0/4
+- [ ] Assemble the setup
+- [ ] Check the main parts for leaks
+- [ ] Check the work with oil at height
+- [ ] Write a theory and prepare a presentation
 
-- [ ] Study to solder copper and brass with borax
-- [ ] Solder the oil supply system
-- [ ] Create a funnel
-- [ ] Find the pressure gauge
+## TODO list (3 week) -> 4/4
+
+- [x] Study to solder copper and brass with borax
+- [x] Solder the oil supply system
+- [x] Create a funnel
+- [x] Find the pressure gauge
 
 ## TODO list (2 week) -> 3.5/4
 
